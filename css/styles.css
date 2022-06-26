@@ -330,7 +330,7 @@ img {
 
 .footer-logo {
   display: block;
-  padding-bottom: 20px;
+  margin-bottom: 20px;
 
   font-family: "Raleway";
   font-style: normal;
@@ -378,7 +378,7 @@ img {
   padding-bottom: 94px;
 }
 .div-btn {
-  padding-bottom: 50px;
+  margin-bottom: 50px;
 }
 .btn-list {
   display: flex;
